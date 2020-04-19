@@ -1,0 +1,2 @@
+# Training-Courses
+Training Courses (Free) Competitive Programmer's Core Skills https://www.coursera.org/learn/competitive-programming-core-skills? computational-geometry https://www.coursera.org/learn/computational-geometry/home/welcome A Youtuber who give lecture about Competive programming  https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg A high school competiven youtuber https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q
